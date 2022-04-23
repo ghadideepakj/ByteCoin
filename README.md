@@ -1,6 +1,6 @@
 # ByteCoin
 
-#Bicoin converter in respective currency you selected using Picker view
+#Bitcoin converter in respective currency you selected using Picker view
 #Uses API intergration from CoinApi.io 
 
 
